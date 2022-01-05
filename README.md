@@ -2,6 +2,11 @@
 
 ## Detection and isolation of the number plate from an image consisting of a vehicle followed by using various means to extract the text within the isolated license number plate image.
 
+<h2 align="center">
+  <a href="https://docs.google.com/presentation/d/1XwgJYmvngBhe-WtXv0XelLwrL6OibNRC7RqRxFOYJqI/edit?usp=sharing">Presentation (Google Slides)</a>
+  
+</h2>
+
 **Step 1:** Input consists of a picture of the vehicle whose license plate number should be detected.
 
 <p align="center">
