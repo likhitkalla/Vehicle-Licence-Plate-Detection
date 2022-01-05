@@ -26,7 +26,8 @@
 <img src="https://github.com/likhitkalla/VEHICLE-LICENSE-PLATE-DETECTION/blob/main/image/Canny_image.jpg" width="425" height="300" />
 </p>
   
-**Step 5:**  In order to extract the license plate from the image, we extract contours that have a rectangle shape with four sides and a closed figure.  (A contour is defined as the line that joins all the points along the boundary of an image)
+**Step 5:**  In order to extract the license plate from the image, we extract contours that have a rectangle shape with four sides and a closed figure.  
+> A contour is defined as the line that joins all the points along the boundary of an image
 
 <p align="center">
 <img src="https://github.com/likhitkalla/VEHICLE-LICENSE-PLATE-DETECTION/blob/main/image/Contours_image.jpg" width="425" height="300" />
