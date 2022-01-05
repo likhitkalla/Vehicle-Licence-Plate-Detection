@@ -1,6 +1,6 @@
-# VEHICLE-LICENSE-PLATE-DETECTION
+# Vehicle License Plate Detection
 
-Detection and isolation of the number plate from an image consisting of a vehicle followed by using various means to extract the text within the isolated license number plate image.
+## Detection and isolation of the number plate from an image consisting of a vehicle followed by using various means to extract the text within the isolated license number plate image.
 
 **Step 1:** Input consists of a picture of the vehicle whose license plate number should be detected.
 
