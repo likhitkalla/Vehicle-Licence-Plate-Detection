@@ -7,6 +7,14 @@
   
 </h2>
 
+<h3 align="center">
+Team Members
+  
+[@Abhishek-Sai-14](https://github.com/Abhishek-Sai-14/)  
+[@RahulYalavarthi](https://github.com/RahulYalavarthi/)
+</h3>
+
+***
 **Step 1:** Input consists of a picture of the vehicle whose license plate number should be detected.
 
 <p align="center">
@@ -49,3 +57,5 @@
 <p align="center">
 <img src="https://github.com/likhitkalla/VEHICLE-LICENSE-PLATE-DETECTION/blob/main/image/pytesseract.png" />
 </p>
+
+  
